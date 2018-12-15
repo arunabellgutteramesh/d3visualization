@@ -1,0 +1,118 @@
+body {
+  font-family: 'Times New Roman', Times, serif
+}
+
+svg {
+    font-family: Sans-Serif, Arial;
+}
+.line {
+  stroke-width: 2;
+  fill: none;
+}
+
+.axis path {
+  stroke: black;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.title-text {
+  font-size: 12px;
+}
+
+.mainHead {
+  text-align: center;
+}
+
+.multi-line-text {
+  text-anchor:start;
+  font-size: 14px;
+}
+
+h1 {
+ margin-top : 50px;
+}
+
+.container {
+    max-width: 1350px;
+}
+
+.stacked_bar_graph .toolTip {
+  position: absolute;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #6F257F;
+  padding: 7px;
+  text-align: center;
+}
+
+/* map css : START */
+
+.state {
+  fill: none;
+  stroke: #a9a9a9;
+  stroke-width: 1;
+}
+
+.state:hover {
+  fill-opacity: 0.7;
+  border:black;
+}
+
+.map .tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 1px;
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+.map .tooltip h4 {
+  margin: 0;
+  font-size: 14px;
+}
+
+.map .tooltip {
+  background: rgba(0, 0, 0, 0.9);
+  border: 1px solid grey;
+  border-radius: 5px;
+  font-size: 12px;
+  width: auto;
+  padding: 4px;
+  color: white;
+  opacity: 0;
+}
+
+.map .tooltip table {
+  table-layout: fixed;
+}
+
+.map .tooltip tr td {
+  padding: 0;
+  margin: 0;
+}
+
+.map .tooltip tr td:nth-child(1) {
+  width: 50px;
+}
+
+.map .tooltip tr td:nth-child(2) {
+  text-align: center;
+}
+
+.map_dropdown {
+  position: absolute;
+  margin-left: 900px;
+  margin-top: 100px;
+}
+
+/* map css : END */
+
