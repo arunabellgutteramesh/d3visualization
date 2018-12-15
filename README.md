@@ -1,6 +1,6 @@
 # d3visualization
 
-Steps:
+# Steps:
 1. Download the files
 # DB setup
 2. Setup mysql server in local DB
