@@ -9,7 +9,7 @@
 5. update this connection in "db.js" under the "dataAccessLayer" folder 
 6. create a schema "DMV_Schema"
 7. import csv file provided into mysql DB, under DMV_Schema, inside the table structure
-# node js setup
+# Node JS setup
 8. instal node and npm
 9. install node_modules with the command "npm install" on terminal at the project location
 10. once node_modules are installed, run the application with command "node app.js"
