@@ -2,8 +2,10 @@
 Here, suicide dataset is analysed with various appropriate visualisations.  A detailed report is attached in the repo.  
 
 # Application
-Front-end : Angular JS, D3.js
+Front-end : Angular JS, D3.js 
+
 Middleware : Node JS
+
 Backend : MySQL DB
 
 # Steps:
