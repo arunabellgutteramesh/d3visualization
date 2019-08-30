@@ -4,7 +4,7 @@ Here, suicide dataset is analysed with various appropriate visualisations.  A de
 # Application
 Front-end : Angular JS, D3.js 
 
-Middleware : Node JS
+Middleware : Node JS, Express
 
 Backend : MySQL DB
 
